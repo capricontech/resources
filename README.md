@@ -10,3 +10,7 @@ before starting a new project.
 - [React Toastify](https://www.npmjs.com/package/react-toastify)
 - [Nextjs](https://nextjs.org/)
 - [Jotai: State Management](https://jotai.org/)
+
+## Devops
+- [Terraform](https://www.terraform.io/)
+- [Helm Chart](https://helm.sh/)
