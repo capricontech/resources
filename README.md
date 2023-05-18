@@ -3,6 +3,7 @@ A collection of important resources for building great product faster and better
 before starting a new project.
 
 ## Frontend Resources
+- https://deviceframes.com/
 - [Pika: Beautiful Screenshot Generator](https://pika.style/)
 - [CSS Gradients](https://cssgradient.io/)
 - [CSS Clip Path Maker](https://bennettfeely.com/clippy/)
